@@ -1,3 +1,4 @@
 User-Agent: *
 Disallow: /login
 Sitemap: https://valvntinsbs.github.io/Mmt/sitemap_index.txt.gz
+Sitemap: https://valvntinsbs.github.io/XuN/sitemap_index.txt.gz
